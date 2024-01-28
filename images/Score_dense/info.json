@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 18,
+    "height" : 17
+  }, {
+    "width" : 36,
+    "height" : 33
+  }, {
+    "width" : 71,
+    "height" : 65
+  }, {
+    "width" : 142,
+    "height" : 130
+  }, {
+    "width" : 284,
+    "height" : 259
+  }, {
+    "width" : 567,
+    "height" : 517
+  } ],
+  "profile" : "level0",
+  "width" : 567,
+  "id" : "https://TizioMistico.github.io/plots_performances/images/Score_dense",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 517
+}
